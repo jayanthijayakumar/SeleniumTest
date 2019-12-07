@@ -30,9 +30,6 @@ public static void main(String[] args, int IndexOf) {
 		Integer set = li.set(2,26);
 		
 		System.out.println(li);
-		
-
-		
 				
 	
 
